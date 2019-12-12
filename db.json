@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Learning Redux",
+      "price": "40"
+    },
+    {
+      "id": 2,
+      "name": "Express JS",
+      "price": "40"
+    },
+    {
+      "id": 3,
+      "name": "React-Router",
+      "price": "50"
+    },
+    {
+      "name": "Redux & React",
+      "price": "80",
+      "id": 4
+    }
+  ]
+}
