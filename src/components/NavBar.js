@@ -41,7 +41,12 @@ const NavBar = () => {
                 <NavbarBrand  
                   className="text-light"
                 >
-                  AD-Practica  Exploratoria
+                  <Link
+                    to={'/'}
+                  >
+                    AD-Practica  Exploratoria
+                  </Link>
+                  
                 </NavbarBrand>
               </NavItem>
             </Nav>
