@@ -43,6 +43,7 @@ const NavBar = () => {
                 >
                   <Link
                     to={'/'}
+                    className="brand"
                   >
                     AD-Practica  Exploratoria
                   </Link>

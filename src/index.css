@@ -13,6 +13,11 @@ code {
     monospace;
 }
 
+
+.brand {
+  text-decoration: none;
+  color: white;
+}
 .dropdown-toggle::after {
   color: white;
 }
