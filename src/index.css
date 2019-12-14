@@ -14,7 +14,7 @@ code {
 }
 
 
-.brand {
+.brand, .brand:hover, .brand:active {
   text-decoration: none;
   color: white;
 }
